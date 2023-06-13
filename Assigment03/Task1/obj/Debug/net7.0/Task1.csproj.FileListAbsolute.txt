@@ -1,0 +1,15 @@
+C:\Users\NKitiashvili\Desktop\TBC_CSharp\Assigment03\Task1\bin\Debug\net7.0\Task1.exe
+C:\Users\NKitiashvili\Desktop\TBC_CSharp\Assigment03\Task1\bin\Debug\net7.0\Task1.deps.json
+C:\Users\NKitiashvili\Desktop\TBC_CSharp\Assigment03\Task1\bin\Debug\net7.0\Task1.runtimeconfig.json
+C:\Users\NKitiashvili\Desktop\TBC_CSharp\Assigment03\Task1\bin\Debug\net7.0\Task1.dll
+C:\Users\NKitiashvili\Desktop\TBC_CSharp\Assigment03\Task1\bin\Debug\net7.0\Task1.pdb
+C:\Users\NKitiashvili\Desktop\TBC_CSharp\Assigment03\Task1\obj\Debug\net7.0\Task1.csproj.AssemblyReference.cache
+C:\Users\NKitiashvili\Desktop\TBC_CSharp\Assigment03\Task1\obj\Debug\net7.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NKitiashvili\Desktop\TBC_CSharp\Assigment03\Task1\obj\Debug\net7.0\Task1.AssemblyInfoInputs.cache
+C:\Users\NKitiashvili\Desktop\TBC_CSharp\Assigment03\Task1\obj\Debug\net7.0\Task1.AssemblyInfo.cs
+C:\Users\NKitiashvili\Desktop\TBC_CSharp\Assigment03\Task1\obj\Debug\net7.0\Task1.csproj.CoreCompileInputs.cache
+C:\Users\NKitiashvili\Desktop\TBC_CSharp\Assigment03\Task1\obj\Debug\net7.0\Task1.dll
+C:\Users\NKitiashvili\Desktop\TBC_CSharp\Assigment03\Task1\obj\Debug\net7.0\refint\Task1.dll
+C:\Users\NKitiashvili\Desktop\TBC_CSharp\Assigment03\Task1\obj\Debug\net7.0\Task1.pdb
+C:\Users\NKitiashvili\Desktop\TBC_CSharp\Assigment03\Task1\obj\Debug\net7.0\Task1.genruntimeconfig.cache
+C:\Users\NKitiashvili\Desktop\TBC_CSharp\Assigment03\Task1\obj\Debug\net7.0\ref\Task1.dll
