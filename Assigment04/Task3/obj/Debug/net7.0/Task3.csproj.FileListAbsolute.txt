@@ -1,0 +1,15 @@
+C:\Users\NKitiashvili\Desktop\TBC_CSharp\Assigment04\Task3\obj\Debug\net7.0\Task3.csproj.AssemblyReference.cache
+C:\Users\NKitiashvili\Desktop\TBC_CSharp\Assigment04\Task3\obj\Debug\net7.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NKitiashvili\Desktop\TBC_CSharp\Assigment04\Task3\obj\Debug\net7.0\Task3.AssemblyInfoInputs.cache
+C:\Users\NKitiashvili\Desktop\TBC_CSharp\Assigment04\Task3\obj\Debug\net7.0\Task3.AssemblyInfo.cs
+C:\Users\NKitiashvili\Desktop\TBC_CSharp\Assigment04\Task3\obj\Debug\net7.0\Task3.csproj.CoreCompileInputs.cache
+C:\Users\NKitiashvili\Desktop\TBC_CSharp\Assigment04\Task3\bin\Debug\net7.0\Task3.exe
+C:\Users\NKitiashvili\Desktop\TBC_CSharp\Assigment04\Task3\bin\Debug\net7.0\Task3.deps.json
+C:\Users\NKitiashvili\Desktop\TBC_CSharp\Assigment04\Task3\bin\Debug\net7.0\Task3.runtimeconfig.json
+C:\Users\NKitiashvili\Desktop\TBC_CSharp\Assigment04\Task3\bin\Debug\net7.0\Task3.dll
+C:\Users\NKitiashvili\Desktop\TBC_CSharp\Assigment04\Task3\bin\Debug\net7.0\Task3.pdb
+C:\Users\NKitiashvili\Desktop\TBC_CSharp\Assigment04\Task3\obj\Debug\net7.0\Task3.dll
+C:\Users\NKitiashvili\Desktop\TBC_CSharp\Assigment04\Task3\obj\Debug\net7.0\refint\Task3.dll
+C:\Users\NKitiashvili\Desktop\TBC_CSharp\Assigment04\Task3\obj\Debug\net7.0\Task3.pdb
+C:\Users\NKitiashvili\Desktop\TBC_CSharp\Assigment04\Task3\obj\Debug\net7.0\Task3.genruntimeconfig.cache
+C:\Users\NKitiashvili\Desktop\TBC_CSharp\Assigment04\Task3\obj\Debug\net7.0\ref\Task3.dll
